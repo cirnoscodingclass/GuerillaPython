@@ -11,3 +11,12 @@ Post-processing and Binarization: From the raw activation vectors, we conduct pe
 Precision, recall, and F-measure are computed for transcription evaluation. Precision measures the percentage of notes in the transcription that align with the ground truth, while recall indicates the percentage of ground truth notes overlapping with the transcription. A tolerance of 50ms is applied for both recall and precision calculations, considering the practicality of piano music onset intervals.
 
 This implementation ensures fidelity to Cogliati's method while addressing nuances and optimizing parameters for accurate transcription and onset detection of polyphonic piano performances.
+
+### Harmonic-to-Noise Ratio (HNR) 
+![Original x Genereated](https://github.com/cirnoscodingclass/GuerillaPython/assets/156504723/45ca48c8-25c2-45ed-b0c7-a672a64e7d74)
+
+### Original MIDI Piano Roll
+![Original MIDI](https://github.com/cirnoscodingclass/GuerillaPython/assets/156504723/e7eae928-1675-452e-a83a-f7bc18cb74ed)
+
+### Generated Midi Piano Roll
+![Generated Midi](https://github.com/cirnoscodingclass/GuerillaPython/assets/156504723/57159ade-1d85-439f-b17b-2f114fe2e3f7)
