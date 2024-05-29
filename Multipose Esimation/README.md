@@ -63,3 +63,8 @@ keypoint, such as hips, knees, ankles, shoulders, and head,
 relative to their positions in the first frame of the window. If
 the movement exceeds a certain threshold the code identifies
 it as a jump.
+
+![Masking](https://github.com/cirnoscodingclass/GuerillaPython/assets/156504723/fc6c50a5-bee6-4299-a7ff-084e1358ce09)
+
+![keypoints](https://github.com/cirnoscodingclass/GuerillaPython/assets/156504723/272a5d03-c298-4a6f-915f-1b27c0b7a665)
+
